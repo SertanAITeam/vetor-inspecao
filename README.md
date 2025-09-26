@@ -39,7 +39,7 @@ A solução final foi alcançada por meio de um processo iterativo, documentado 
                 Estes scripts representam as abordagens iniciais. A primeira versão (<code>vetor_inspecao.py</code>) gera pontos de amostragem ao longo de linhas-guia paralelas ao eixo principal do polígono. A segunda (<code>vector_v2.py</code>) distribui pontos em uma grade uniforme que cobre toda a extensão do talhão. Ambas as abordagens, embora sistemáticas, não direcionam a amostragem para áreas de interesse específico, tratando toda a área de forma homogênea.
             </td>
             <td align="center">
-                <img src="https://i.imgur.com/k6wzL2o.png" alt="Resultado da Distribuição Uniforme" width="300"/>
+                <img src="teste 10.png"" alt="Resultado da Distribuição Uniforme" width="300"/>
                 <br>
                 <sub>Figura 1: Rota de inspeção gerada sobre a área total do talhão.</sub>
             </td>
